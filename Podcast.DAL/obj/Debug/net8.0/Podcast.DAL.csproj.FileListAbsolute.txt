@@ -1,0 +1,15 @@
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\bin\Debug\net8.0\Podcast.DAL.deps.json
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\bin\Debug\net8.0\Podcast.DAL.runtimeconfig.json
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\bin\Debug\net8.0\Podcast.DAL.dll
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\bin\Debug\net8.0\Podcast.DAL.pdb
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.csproj.AssemblyReference.cache
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.AssemblyInfoInputs.cache
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.AssemblyInfo.cs
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.csproj.CoreCompileInputs.cache
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.sourcelink.json
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.dll
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\obj\Debug\net8.0\refint\Podcast.DAL.dll
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.pdb
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\obj\Debug\net8.0\Podcast.DAL.genruntimeconfig.cache
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.DAL\obj\Debug\net8.0\ref\Podcast.DAL.dll

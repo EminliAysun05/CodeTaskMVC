@@ -1,0 +1,16 @@
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\bin\Debug\net8.0\Podcast.BLL.deps.json
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\bin\Debug\net8.0\Podcast.BLL.dll
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\bin\Debug\net8.0\Podcast.BLL.pdb
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\bin\Debug\net8.0\Podcast.DAL.dll
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\bin\Debug\net8.0\Podcast.DAL.pdb
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\obj\Debug\net8.0\Podcast.BLL.csproj.AssemblyReference.cache
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\obj\Debug\net8.0\Podcast.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\obj\Debug\net8.0\Podcast.BLL.AssemblyInfoInputs.cache
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\obj\Debug\net8.0\Podcast.BLL.AssemblyInfo.cs
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\obj\Debug\net8.0\Podcast.BLL.csproj.CoreCompileInputs.cache
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\obj\Debug\net8.0\Podcast.BLL.sourcelink.json
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\obj\Debug\net8.0\Podcast..32296616.Up2Date
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\obj\Debug\net8.0\Podcast.BLL.dll
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\obj\Debug\net8.0\refint\Podcast.BLL.dll
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\obj\Debug\net8.0\Podcast.BLL.pdb
+C:\Users\namjoon\Source\Repos\Podcasttttt\Podcast.BLL\obj\Debug\net8.0\ref\Podcast.BLL.dll

@@ -1,0 +1,169 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Podcast.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Podcast.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\1.mp3",
+      "PackagePath": "staticwebassets\\1.mp3"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\Resume-Rafet-Rzayev",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\css\\templatemo-pod-talk.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-pod-talk.css"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\app-store.png",
+      "PackagePath": "staticwebassets\\images\\app-store.png"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\medium-shot-young-people-recording-podcast.jpg",
+      "PackagePath": "staticwebassets\\images\\medium-shot-young-people-recording-podcast.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\play-store.png",
+      "PackagePath": "staticwebassets\\images\\play-store.png"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\pod-talk-logo.png",
+      "PackagePath": "staticwebassets\\images\\pod-talk-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\podcast\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\podcast\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\podcast\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\podcast\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\podcast\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\podcast\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\podcast\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\podcast\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\profile\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\profile\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\profile\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\profile\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\profile\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\profile\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\profile\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\templatemo-wave-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\templatemo-wave-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\templatemo-wave-footer.jpg",
+      "PackagePath": "staticwebassets\\images\\templatemo-wave-footer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\templatemo-wave-header.jpg",
+      "PackagePath": "staticwebassets\\images\\templatemo-wave-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\topics\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\topics\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\topics\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\topics\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\images\\verified.png",
+      "PackagePath": "staticwebassets\\images\\verified.png"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\namjoon\\Source\\Repos\\Podcasttttt\\Podcast.MVC\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Podcast.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Podcast.MVC.props",
+      "PackagePath": "build\\Podcast.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Podcast.MVC.props",
+      "PackagePath": "buildMultiTargeting\\Podcast.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Podcast.MVC.props",
+      "PackagePath": "buildTransitive\\Podcast.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

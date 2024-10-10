@@ -1,0 +1,43 @@
+﻿@model EpisodeCreateViewModel
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create speaker</h4>
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label>Title</label>
+                    <input asp-for="Title" class="form-control" placeholder="name">
+                    <span asp-validation-for="Title"></span>
+                </div>
+                <div class="form-group">
+                    <label>Description</label>
+                    <input asp-for="Description" class="form-control" placeholder="description">
+                    <span asp-validation-for="Description"></span>
+                </div>
+                <div class="form-group">
+                    <label>Select image</label>
+                    <input asp-for="CoverFile" class="form-control">
+                    <span asp-validation-for="CoverFile"></span>
+                </div>
+                <div class="form-group">
+                    <label>Select music</label>
+                    <input asp-for="MusicFile" class="form-control">
+                    <span asp-validation-for="MusicFile"></span>
+                </div>
+                <div class="form-group">
+                    <label>Select speaker</label>
+                    <select asp-items="Model.Speakers" asp-for="SpeakerId" class="form-control" placeholder="speaker"></select>
+                    <span asp-validation-for="SpeakerId"></span>
+                </div>
+                <div class="form-group">
+                    <label>Select topic</label>
+                    <select asp-items="Model.Topics" asp-for="TopicId" class="form-control" placeholder="topic"></select>
+                    <span asp-validation-for="TopicId"></span>
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Create</button>
+                <a asp-controller="episode" asp-action="index" class="btn btn-light">Cancel</a>
+            </form>
+        </div>
+    </div>
+</div>

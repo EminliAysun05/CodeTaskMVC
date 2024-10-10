@@ -1,0 +1,33 @@
+﻿@model SpeakerUpdateViewModel
+
+<div class="col-md-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Update speaker</h4>
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label>Name</label>
+                    <input asp-for="Name" class="form-control" placeholder="name">
+                    <span asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label>Select image</label>
+                    <input asp-for="ImageFile" class="form-control">
+                    <span asp-validation-for="ImageFile"></span>
+                </div>
+                <div class="form-group">
+                    <label>Select for removing profession(s)</label>
+                    <select asp-items="Model.OldProfessions" asp-for="OldProfessionIds" class="form-control" placeholder="profession"></select>
+                    <span asp-validation-for="OldProfessionIds"></span>
+                </div>
+                <div class="form-group">
+                    <label>Select for add profession(s)</label>
+                    <select asp-items="Model.NewProfessions" asp-for="NewProfessionIds" class="form-control" placeholder="profession"></select>
+                    <span asp-validation-for="NewProfessionIds"></span>
+                </div>
+                <button type="submit" class="btn btn-primary mr-2">Update</button>
+                <a asp-controller="speaker" asp-action="index" class="btn btn-light">Cancel</a>
+            </form>
+        </div>
+    </div>
+</div>
